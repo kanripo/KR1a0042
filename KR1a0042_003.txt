@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易圖說
-#+DATE: 2015-09-23 09:34:32
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:55:00.924302
+#+PROPERTY: ID KR1a0042
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0042_WYG_003-1a>¶
 欽定四庫全書¶
 　易圖說卷三¶
@@ -257,4 +259,3 @@
 　本㫖吁何幸歟端平丙申四月既望吴人何元壽因¶
 <pb:KR1a0042_WYG_003-19b>¶
 　刋于湖廣餉所敬書其後¶
-
